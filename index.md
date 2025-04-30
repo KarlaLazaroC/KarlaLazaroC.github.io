@@ -1,6 +1,6 @@
 # Karla Lazaro Cruz's Portfolio
 
-I am a second-year student as CSUF majoring in Computer Science. My expected year of graduation is 2027! :WOMAN_STUDENT:
+I am a second-year student as CSUF majoring in Computer Science. My expected year of graduation is 2027! 👩‍🎓
 
 ## My Favorite CPSC 120L Labs
 **Lab 7**
